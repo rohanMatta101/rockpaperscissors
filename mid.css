@@ -1,0 +1,63 @@
+body{
+  background-color: #0c005a;
+}
+.btn{
+  position: relative;
+  left:760px;
+  top:140px;
+
+}
+
+.img{
+  display: flex;
+  position: absolute;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  left:400px;
+  top:80px;
+  padding-top: 3%;
+  padding-bottom: 2%;
+  padding-left: 1%;
+  padding-right: 4%;
+
+}
+.col-lg-4{
+  position: relative;
+  top:470px;
+}
+.you{
+  position: relative;
+  left:150px;
+  top:25px;
+  border-radius: 100%;
+  border: 20px solid #ce0f3d;
+  background-color: white;
+  padding: 15% 15%;
+}
+.result{
+  position: relative;
+  left:170px;
+  top:25px;
+  color:white;
+
+}
+.comp{
+position: relative;
+left: 170px;
+top:30px;
+border-radius: 100%;
+border: 20px solid hsl(40, 84%, 53%);
+background-color: white;
+padding: 15% 15%;
+}
+.head1{
+  position: relative;
+  left:230px;
+  color: white;
+  font-family: 'Caveat', cursive;
+}
+.head2{
+  position: relative;
+  left:220px;
+  color: white;
+  font-family: 'Caveat', cursive;
+}
